@@ -1,12 +1,13 @@
-1. Emmet 				#web开发代码补齐
-2. Alignment   			#用于代码格式的自动对齐
-3. SublimeCodeIntel  		#代码自动提示
-4. A File Icon 			#可视化类型标签
-5. DocBlockr 			#js和phs代码注释插件 (用法: /**)
-6. ConvertToUTF8			#让sublime正确的识别中文编码
-7. SideBarTools 			#扩展左侧面板（简易版）
-8. SideBarEnhancements		#扩展左侧面板（增强版）
-9. AdvanceNewfile			#快速创建文件，使用ctrl+alt+n
-10. Local History			#本地历史记录
+1. Emmet 				            #web开发代码补齐
+2. Alignment   			        #用于代码格式的自动对齐
+3. SublimeCodeIntel  		    #代码自动提示
+4. A File Icon 			        #可视化类型标签
+5. DocBlockr 			          #js和phs代码注释插件 (用法: /**)
+6. ConvertToUTF8			      #让sublime正确的识别中文编码
+7. SideBarTools 			      #扩展左侧面板（简易版）
+8. SideBarEnhancements		  #扩展左侧面板（增强版）
+9. AdvanceNewfile			      #快速创建文件，使用ctrl+alt+n
+10. Local History			      #本地历史记录
 11. Laravel  5 Artisan			#laravel命令行插件，按ctrl+shift+p  搜索并执行命令
-12. Laravel  5 Snippets		#laravel代码片断插件
+12. Laravel  5 Snippets		  #laravel代码片断插件
+13. jQuery                  #jQuery代码补全
