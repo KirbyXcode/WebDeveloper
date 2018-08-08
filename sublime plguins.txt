@@ -1,12 +1,12 @@
-1. Emmet 				#web¿ª·¢´úÂë²¹Æë
-2. Alignment   			#ÓÃÓÚ´úÂë¸ñÊ½µÄ×Ô¶¯¶ÔÆë
-3. SublimeCodeIntel  		#´úÂë×Ô¶¯ÌáÊ¾
-4. A File Icon 			#¿ÉÊÓ»¯ÀàĞÍ±êÇ©
-5. DocBllockr 			#jsºÍphs´úÂë×¢ÊÍ²å¼ş (ÓÃ·¨: /**)
-6. ConvertToUTF8			#ÈÃsublimeÕıÈ·µÄÊ¶±ğÖĞÎÄ±àÂë
-7. SideBarTools 			#À©Õ¹×ó²àÃæ°å£¨¼òÒ×°æ£©
-8. SideBarEnhancements		#À©Õ¹×ó²àÃæ°å£¨ÔöÇ¿°æ£©
-9. AdvanceNewfile			#¿ìËÙ´´½¨ÎÄ¼ş£¬Ê¹ÓÃctrl+alt+n
-10. Local History			#±¾µØÀúÊ·¼ÇÂ¼
-11. Laravel  5 Artisan			#laravelÃüÁîĞĞ²å¼ş£¬°´ctrl+shift+p  ËÑË÷²¢Ö´ĞĞÃüÁî
-12. Laravel  5 Snippets		#laravel´úÂëÆ¬¶Ï²å¼ş
+1. Emmet 				#webå¼€å‘ä»£ç è¡¥é½
+2. Alignment   			#ç”¨äºä»£ç æ ¼å¼çš„è‡ªåŠ¨å¯¹é½
+3. SublimeCodeIntel  		#ä»£ç è‡ªåŠ¨æç¤º
+4. A File Icon 			#å¯è§†åŒ–ç±»å‹æ ‡ç­¾
+5. DocBlockr 			#jså’Œphsä»£ç æ³¨é‡Šæ’ä»¶ (ç”¨æ³•: /**)
+6. ConvertToUTF8			#è®©sublimeæ­£ç¡®çš„è¯†åˆ«ä¸­æ–‡ç¼–ç 
+7. SideBarTools 			#æ‰©å±•å·¦ä¾§é¢æ¿ï¼ˆç®€æ˜“ç‰ˆï¼‰
+8. SideBarEnhancements		#æ‰©å±•å·¦ä¾§é¢æ¿ï¼ˆå¢å¼ºç‰ˆï¼‰
+9. AdvanceNewfile			#å¿«é€Ÿåˆ›å»ºæ–‡ä»¶ï¼Œä½¿ç”¨ctrl+alt+n
+10. Local History			#æœ¬åœ°å†å²è®°å½•
+11. Laravel  5 Artisan			#laravelå‘½ä»¤è¡Œæ’ä»¶ï¼ŒæŒ‰ctrl+shift+p  æœç´¢å¹¶æ‰§è¡Œå‘½ä»¤
+12. Laravel  5 Snippets		#laravelä»£ç ç‰‡æ–­æ’ä»¶
