@@ -12,3 +12,4 @@
 12. Laravel  5 Snippets		  #laravel代码片断插件
 13. jQuery                  #jQuery代码补全
 14. terminal                #命令行快速定位工具
+15. HTML/CSS/JS Prettify    #代码格式化，需要配置nodejs路径
