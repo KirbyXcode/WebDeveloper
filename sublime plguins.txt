@@ -13,3 +13,4 @@
 13. jQuery                  #jQuery代码补全
 14. terminal                #命令行快速定位工具
 15. HTML/CSS/JS Prettify    #代码格式化，需要配置nodejs路径
+16. EditorConfig            #统一不同开发者的不同开发工具的不同开发配置
